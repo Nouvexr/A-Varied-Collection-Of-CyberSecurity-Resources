@@ -21,4 +21,4 @@ A list of good resources that have been helping me with exploitations and stuffs
 
 ## HTTPS Server in Python
 This can be very helpful in some situations
-[Piware](https://piware.de/2011/01/creating-an-https-server-in-python/)
+- [Piware](https://piware.de/2011/01/creating-an-https-server-in-python/)
