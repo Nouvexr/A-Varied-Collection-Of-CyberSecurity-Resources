@@ -64,7 +64,7 @@ A useful list for Recon, OSINT, Information Gathering and Enumeration stuff.
 - [Subdomain Finder](https://subdomainfinder.c99.nl/)
 
 ### E-mail Sender
-- [ReadNotify](https://www.readnotify.com/) (E-mail sender)
+- [ReadNotify](https://www.readnotify.com/)
 
 ### World-Wide Wireless Network Map
 - [Wigle](https://wigle.net/)
