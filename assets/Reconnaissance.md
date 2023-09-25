@@ -62,7 +62,6 @@ A useful list for Recon, OSINT, Information Gathering and Enumeration stuff.
 ### Enumeration
 - [Pentest Tools](https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files) (Fuzzer)
 - [Subdomain Finder](https://subdomainfinder.c99.nl/)
-- [crt.sh](https://crt.sh/) (Certificate Search)
 
 ### E-mail Sender
 - [ReadNotify](https://www.readnotify.com/) (E-mail sender)
@@ -78,6 +77,7 @@ A useful list for Recon, OSINT, Information Gathering and Enumeration stuff.
 ### Certificate
 - [SSLMate](https://sslmate.com/ct_search_api/) (Certificate Transparency logs)
 - [SSLMate](https://sslmate.com/caa/) (CAA Record Generator)
+- [crt.sh](https://crt.sh/) (Certificate Search)
 
 ---
 
@@ -110,4 +110,4 @@ A list of useful nmap scrips for this phase
 
 # Google Dorks
 - [IEBS](https://www.iebschool.com/pt-br/blog/marketing/seo-sem/comandos-pesquisa-principais-truques-pesquisar-no-google/) (🇧🇷) (Article)
-- [Exploit-DB](https://www.exploit-db.com/google-hacking-database)
+- [Exploit-DB Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
