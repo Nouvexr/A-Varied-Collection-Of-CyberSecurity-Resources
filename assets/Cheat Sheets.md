@@ -1,1 +1,1 @@
-- (HackTricks)[https://book.hacktricks.xyz/]
+- [HackTricks](https://book.hacktricks.xyz/)
