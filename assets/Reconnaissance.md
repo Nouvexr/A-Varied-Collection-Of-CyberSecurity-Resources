@@ -93,7 +93,7 @@ A useful list for Recon, OSINT, Information Gathering and Enumeration stuff.
 ---
 
 # Nmap
-A list of useful nmap scrips for this phase
+A list of useful nmap scrips for this phase.
 - [NSEDoc](https://nmap.org/nsedoc/categories/default.html)
 
 ---
