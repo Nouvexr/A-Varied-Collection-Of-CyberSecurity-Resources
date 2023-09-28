@@ -8,3 +8,4 @@
 - [Online Analysis](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Online%20Analysis.md) (Malware, IOCs, E-mail, HTTP...)
 - [Vulnerabilities](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Vulnerabilities.md) (CVE and CWE)
 - [MITRE-NIST](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/MITRE-NIST.md) (SIEM and Pentest)
+- [Password](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Passwords.md) (Brute Force, Encode/Decode, Cipher, Cracker...)
