@@ -3,8 +3,8 @@
 </p>
 
 # Table Of Contents
-- [Cheat Sheets](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Cheat%20Sheets.md)
-- [Reconnaissance](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Reconnaissance.md)
-- [Online Analysis (Malware, IOCs, E-mail, HTTP...)](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Online%20Analysis%20(Malware%2C%20IOCs%2C%20E-mail%2C%20HTTP...).md)
-- [Vulnerabilities (CVE and CWE)](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Vulnerabilities%20(CVE%20and%20CWE).md)
-- [MITRE-NIST](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/MITRE-NIST.md)
+- [Cheat Sheets](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Cheat%20Sheets.md) (Exploitation)
+- [Reconnaissance](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Reconnaissance.md) (Recon, OSINT and Enum)
+- [Online Analysis](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Online%20Analysis.md) (Malware, IOCs, E-mail, HTTP...)
+- [Vulnerabilities](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Vulnerabilities.md) (CVE and CWE)
+- [MITRE-NIST](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/MITRE-NIST.md) (SIEM and Pentest)
