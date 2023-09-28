@@ -23,8 +23,8 @@
 ---
 
 # Converter
-[Easy Converter](http://easyonlineconverter.com/converters/case_conveter.html)
-[Rapid Tables](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
+- [Easy Converter](http://easyonlineconverter.com/converters/case_conveter.html)
+- [Rapid Tables](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
 
 ---
 
