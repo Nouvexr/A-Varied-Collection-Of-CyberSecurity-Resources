@@ -5,3 +5,8 @@
 - [Using thc-hydra to brute force some commom service (FTP/SSH/SMB/POP3/Telnet/RDP/HTTP)](https://securityonline.info/using-thc-hydra-brute-force-commom-service-ftpsshsmbpop3telnetrdphttp/?expand_article=1)
 - [What is the algorithm used to encrypt Linux passwords?](https://crypto.stackexchange.com/questions/40841/what-is-the-algorithm-used-to-encrypt-linux-passwords)
 - [Test WordPress Logins With Hydra on Kali Linux](https://linuxconfig.org/test-wordpress-logins-with-hydra-on-kali-linux)
+
+---
+
+# Pivoting
+- [Proxychains Pivoting](https://www.ivoidwarranties.tech/posts/pentesting-tuts/pivoting/proxychains/)
