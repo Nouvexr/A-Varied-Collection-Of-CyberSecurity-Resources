@@ -15,4 +15,6 @@
 
 - [Password](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Passwords.md) (Brute Force, Encode/Decode, Cipher, Hash Cracker...)
 
+- [Anonymity](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Anonymity.md) (VPN and Tools)
+
 - [Articles](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Articles.md)
