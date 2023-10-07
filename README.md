@@ -17,4 +17,6 @@
 
 - [Anonymity](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Anonymity.md) (VPN and Tools)
 
+- [Stegnography](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Stegnography.md) (Reverse Image Search, Online Tools...)
+
 - [Articles](https://github.com/Nouvexr/A-Varied-Collection-Of-Cybersecurity-Resources/blob/main/assets/Articles.md)
