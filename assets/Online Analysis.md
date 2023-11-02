@@ -56,3 +56,8 @@ Most tools in this list I used when I worked as a Threat Hunter.
 - [TunnelsUP](https://www.tunnelsup.com/hash-analyzer/)
 - [CyberChef](https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,''))
 - [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier#atbash-cipher)
+
+---
+
+# List of IOCs
+- [stalkerware-indicators](https://github.com/AssoEchap/stalkerware-indicators) (Rep)
